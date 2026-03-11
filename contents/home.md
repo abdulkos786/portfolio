@@ -1,6 +1,6 @@
 
 
-[![abdulkos786](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/abdulkos786)
+[![abdulkos786](https://img.shields.io/badge/abdulkos786-github-blue?logo=github)](https://github.com/abdulkos786)
 
 #### Contact
 
