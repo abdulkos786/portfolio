@@ -17,7 +17,7 @@ For many years, our family had a 2006 BMW 325i sitting in our garage. It was pra
 
 With a group of three other engineers at Michigan, I built a prototype Museum Guide Robot with successful line detection capabilities. This robot had a goal of leading visitors around museums in a guided tour manner, with visitors being able to select which exhibits they would like to see. We also planned for the robot to have an interactive touch screen where they could learn more about the exhibits while they visit them. While we didn't meet every objective, we still made considerable progress and I was able to learn a lot of valuable skills like PCB customization, soldering as well as basic Arduino C programming.
 
-If you would like to see the full documentation me and my team made, click <a href="/portfolio/static/assets/pdf/Initial_Prototype_Summary.pdf" target="_blank">here</a>
+If you would like to see the full documentation me and my team made, click <a href="../static/assets/pdf/Initial_Prototype_Summary.pdf" target="_blank">here</a>
 
 
 
