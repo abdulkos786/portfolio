@@ -1,0 +1,599 @@
+[33mcommit d1a02ca5f4f75655df2cf1c5fc7488d587aabca0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: abdulkos786 <abdulkos@umich.edu>
+Date:   Thu Mar 12 01:12:14 2026 -0400
+
+    Update projects.md
+
+[33mcommit 1f0a7c23e4848e55e05a4b90891f3a60d832a548[m
+Author: abdulkos786 <abdulkos@umich.edu>
+Date:   Thu Mar 12 01:09:15 2026 -0400
+
+    Update projects.md
+
+[33mcommit 2e386bbf7585e0084223c49ff42cb6f3740a3794[m
+Author: abdulkos786 <abdulkos@umich.edu>
+Date:   Thu Mar 12 01:03:36 2026 -0400
+
+    Update projects.md
+
+[33mcommit 2e0080a5355e48253e64bce6997d94e1a003dd3f[m
+Author: abdulkos786 <abdulkos@umich.edu>
+Date:   Thu Mar 12 01:01:09 2026 -0400
+
+    Update projects.md
+
+[33mcommit a979de9ea7a5a1075d2c105217d00bf8ae33c4a5[m
+Author: abdulkos786 <abdulkos@umich.edu>
+Date:   Thu Mar 12 01:00:24 2026 -0400
+
+    Delete static/assets/pdf/placeholder.txt
+
+[33mcommit a0bfc18a816c11572cc732149fbaa5b90c824937[m
+Author: abdulkos786 <abdulkos@umich.edu>
+Date:   Thu Mar 12 01:00:07 2026 -0400
+
+    Add files via upload
+
+[33mcommit 05e43607e6660cdf424aca848c30ce7980be59f9[m
+Author: abdulkos786 <abdulkos@umich.edu>
+Date:   Thu Mar 12 00:59:56 2026 -0400
+
+    Create placeholder.txt
+
+[33mcommit 9bcb3ebe1179be978f40b1600bd67a3e43b70066[m
+Author: abdulkos786 <abdulkos@umich.edu>
+Date:   Thu Mar 12 00:58:08 2026 -0400
+
+    Delete static/assets/Initial_Prototype_Summary.pdf
+
+[33mcommit ea36b5fa458b7ee559c6e43272924d80a89b82a3[m
+Author: abdulkos786 <abdulkos@umich.edu>
+Date:   Thu Mar 12 00:49:11 2026 -0400
+
+    Update scripts.js
+
+[33mcommit a0551734e073c41d1e71f0a67f31e37181d6b69f[m
+Author: abdulkos786 <abdulkos@umich.edu>
+Date:   Thu Mar 12 00:43:43 2026 -0400
+
+    Update scripts.js
+
+[33mcommit 8e6b00c3fbe8b66ef9f6179254b60ef55d4c3799[m
+Author: abdulkos786 <abdulkos@umich.edu>
+Date:   Thu Mar 12 00:43:18 2026 -0400
+
+    Update index.html
+
+[33mcommit 2405400ee5591c27251bf9adfb74ccada573dd29[m
+Author: abdulkos786 <abdulkos@umich.edu>
+Date:   Thu Mar 12 00:40:13 2026 -0400
+
+    Update scripts.js
+
+[33mcommit ef6577bf5f37973385eaaf85f8966b42cb7a8c0c[m
+Author: abdulkos786 <abdulkos@umich.edu>
+Date:   Thu Mar 12 00:39:28 2026 -0400
+
+    change awards to about me
+
+[33mcommit 6c1fa70928ef175b2f95dfdd226266f5d3e33677[m
+Author: abdulkos786 <abdulkos@umich.edu>
+Date:   Thu Mar 12 00:35:54 2026 -0400
+
+    Update config.yml
+
+[33mcommit 4ddfac2734a45b1b5f226ce233ad0793af245c55[m
+Author: abdulkos786 <abdulkos@umich.edu>
+Date:   Thu Mar 12 00:33:11 2026 -0400
+
+    Update projects.md
+
+[33mcommit ea231c7491449271cd4678ad5defd4421c0a0773[m
+Author: abdulkos786 <abdulkos@umich.edu>
+Date:   Thu Mar 12 00:30:52 2026 -0400
+
+    Update projects.md
+
+[33mcommit cf74cee23a9811333ba9654e83010dd1646d7b92[m
+Author: abdulkos786 <abdulkos@umich.edu>
+Date:   Thu Mar 12 00:30:26 2026 -0400
+
+    Add files via upload
+
+[33mcommit 79d2c79e390c0592719fcdf9b7cd899f6415e8ff[m
+Author: abdulkos786 <abdulkos@umich.edu>
+Date:   Thu Mar 12 00:29:53 2026 -0400
+
+    Delete static/assets/Initial Prototype Summary.pdf
+
+[33mcommit 1540b4e94658f8e626b4d53693ba59da8cb6bea4[m
+Author: abdulkos786 <abdulkos@umich.edu>
+Date:   Thu Mar 12 00:29:38 2026 -0400
+
+    Add files via upload
+
+[33mcommit 0a0a488d7b0c010dc35b5443217dc7b2750ffce4[m
+Author: abdulkos786 <abdulkos@umich.edu>
+Date:   Thu Mar 12 00:28:32 2026 -0400
+
+    Delete static/assets/Initial_Prototype_Summary.pdf
+
+[33mcommit b7b7446bc5f158d0cd5e0e44ba3e8ee2c0647499[m
+Author: abdulkos786 <abdulkos@umich.edu>
+Date:   Thu Mar 12 00:28:03 2026 -0400
+
+    Rename Initial Prototype Summary.pdf to Initial_Prototype_Summary.pdf
+
+[33mcommit f2b0b2810f930afce7cb6f24d7fb9a8594eff8e0[m
+Author: abdulkos786 <abdulkos@umich.edu>
+Date:   Thu Mar 12 00:27:30 2026 -0400
+
+    fix pdf addition
+
+[33mcommit 8806b640295a2622598124633cbec40e707f2014[m
+Author: abdulkos786 <abdulkos@umich.edu>
+Date:   Thu Mar 12 00:25:48 2026 -0400
+
+    added robot pdf
+
+[33mcommit 923ae882fee1497f80568d3857a4e28516a386c1[m
+Author: abdulkos786 <abdulkos@umich.edu>
+Date:   Thu Mar 12 00:20:54 2026 -0400
+
+    Create aboutme.md
+
+[33mcommit db3912bc961749c5bda61d7111e7a81ed940f08c[m
+Author: abdulkos786 <abdulkos@umich.edu>
+Date:   Thu Mar 12 00:19:07 2026 -0400
+
+    Update index.html
+
+[33mcommit 2910e77c600c37d7f4a4c6d2bb4fd711226d16cc[m
+Author: abdulkos786 <abdulkos@umich.edu>
+Date:   Thu Mar 12 00:18:22 2026 -0400
+
+    Add files via upload
+
+[33mcommit 2e85c16cc8b667bb7382ab840ce075b449612268[m
+Author: abdulkos786 <abdulkos@umich.edu>
+Date:   Thu Mar 12 00:12:46 2026 -0400
+
+    Update index.html
+
+[33mcommit 6729686a6f8281df8bff0be3a443e9d214770ee3[m
+Author: abdulkos786 <abdulkos@umich.edu>
+Date:   Thu Mar 12 00:12:13 2026 -0400
+
+    Add files via upload
+
+[33mcommit e41adef5cce4a9fd0e70935ba49fc05a91660b86[m
+Author: abdulkos786 <abdulkos@umich.edu>
+Date:   Thu Mar 12 00:00:36 2026 -0400
+
+    Update config.yml
+
+[33mcommit d10cd4a544e59bc811c9ae047603a02aa3e370c6[m
+Author: abdulkos786 <abdulkos@umich.edu>
+Date:   Wed Mar 11 21:23:04 2026 -0400
+
+    Add files via upload
+
+[33mcommit 326ace59ae77da50278275e7d46fd00f25f3b271[m
+Author: abdulkos786 <abdulkos@umich.edu>
+Date:   Wed Mar 11 18:23:36 2026 -0400
+
+    Update config.yml
+
+[33mcommit b1d3bdca30ca2ed74412a54242e413090f7c4ebe[m
+Author: abdulkos786 <abdulkos@umich.edu>
+Date:   Wed Mar 11 18:06:16 2026 -0400
+
+    Update index.html
+
+[33mcommit c139bca60b26eda7a618fdbbdf074605ed29e458[m
+Author: abdulkos786 <abdulkos@umich.edu>
+Date:   Wed Mar 11 18:03:37 2026 -0400
+
+    Update scripts.js
+
+[33mcommit 7a071fbcb27035572c49746522da982d2c11ea3f[m
+Author: abdulkos786 <abdulkos@umich.edu>
+Date:   Wed Mar 11 17:57:31 2026 -0400
+
+    Update index.html
+
+[33mcommit a40a53ba9e2b5c8f3f92f14727cd3e2560488140[m
+Author: abdulkos786 <abdulkos@umich.edu>
+Date:   Wed Mar 11 17:55:26 2026 -0400
+
+    Update projects.md
+
+[33mcommit 1c7be3babe9fecbb41e3dc5c624985361c8e3c37[m
+Author: abdulkos786 <abdulkos@umich.edu>
+Date:   Wed Mar 11 17:54:21 2026 -0400
+
+    Change publications to projects and include projects
+
+[33mcommit 0164fe3e4b06678f08265367c0c72ba647cc787f[m
+Author: abdulkos786 <abdulkos@umich.edu>
+Date:   Wed Mar 11 17:36:14 2026 -0400
+
+    home.md
+
+[33mcommit 4a4bda5ebdb28ee9e65dafd4d8543788eeb51d2a[m
+Author: abdulkos786 <abdulkos@umich.edu>
+Date:   Wed Mar 11 17:35:48 2026 -0400
+
+    home.md
+
+[33mcommit ef7584d0c2937c51e45b5650b1df87fef862bdc6[m
+Author: abdulkos786 <abdulkos@umich.edu>
+Date:   Wed Mar 11 17:22:28 2026 -0400
+
+    README.md
+
+[33mcommit 56a51ef849d863928def53798af41e2f62618614[m
+Author: abdulkos786 <abdulkos@umich.edu>
+Date:   Wed Mar 11 17:13:56 2026 -0400
+
+    README.md
+
+[33mcommit dd2705f46a816e846dc4d89d886474a91ebb686c[m
+Author: senli1073 <senli.1073@gmail.com>
+Date:   Tue Feb 17 17:06:56 2026 -0500
+
+    remove name
+
+[33mcommit 33955b4a1e9cfaf40e6d43b44c9ac4f09114da55[m
+Author: senli1073 <senli.1073@gmail.com>
+Date:   Thu Dec 18 15:02:18 2025 -0500
+
+    update readme
+
+[33mcommit 354dcb28067da7257eefc005370414bc04bb4cf2[m
+Author: senli1073 <senli.1073@gmail.com>
+Date:   Tue Dec 9 21:57:01 2025 -0500
+
+    update profile
+
+[33mcommit a9bf02ffa54d0a9a4997fc52d63d5594f6781ca6[m
+Author: senli1073 <senli.1073@gmail.com>
+Date:   Wed Nov 12 17:29:59 2025 -0500
+
+    update pubs
+
+[33mcommit a1e31a40a1ca72cfe6a7a5dc31343bd777d336ec[m
+Author: senli1073 <senli.1073@gmail.com>
+Date:   Tue Oct 28 16:03:42 2025 -0400
+
+    doc: update the steps for deployment
+
+[33mcommit 5574a033ba7a136aa4b74208d49cade537fe0ad3[m
+Author: senli1073 <senli.1073@gmail.com>
+Date:   Wed Oct 15 21:34:50 2025 -0400
+
+    update awards
+
+[33mcommit c612e10e2e068b8b0277aa0a3f989caaa011d2aa[m
+Author: senli1073 <senli.1073@gmail.com>
+Date:   Thu Jul 3 18:57:00 2025 -0400
+
+    update bio and pub
+
+[33mcommit 09a7a3e154475dc5a8a532d225e2a777c97a2b67[m
+Author: senli1073 <senli.1073@gmail.com>
+Date:   Thu Mar 13 10:08:03 2025 +0800
+
+    update pub status
+
+[33mcommit 1bbca7bae02461315cd764a952fa529ccb4d4ec8[m
+Author: Sen Li <senli.1073@gmail.com>
+Date:   Thu Mar 13 09:57:33 2025 +0800
+
+    Update README.md
+
+[33mcommit d5d7ac22536703cdc9e67dbde608add811461a00[m
+Author: Sen Li <>
+Date:   Mon Dec 2 14:57:44 2024 +0800
+
+    update pub
+
+[33mcommit 3f8abff9431c1778c1dcc7db087843dcc3042f5b[m
+Author: Sen Li <>
+Date:   Mon Dec 2 14:57:25 2024 +0800
+
+    update awards
+
+[33mcommit 0c9a738e4e20efdd628937f072b551aae0ae6925[m
+Author: Sen Li <senli@192.168.5.2>
+Date:   Tue Sep 3 17:35:16 2024 +0800
+
+    update link
+
+[33mcommit 58fff3eb2fd96a5d9b446dca03b0e1b9f9cd5cbe[m
+Author: Sen Li <senli@192.168.5.2>
+Date:   Sat Aug 24 16:08:11 2024 +0800
+
+    update edu
+
+[33mcommit 49b4bbe3b65f69390c9fc544236e8050e4d4580e[m
+Author: Sen Li <senli@192.168.5.2>
+Date:   Sat Aug 24 15:50:54 2024 +0800
+
+    update pubs
+
+[33mcommit 116e2f8e416ca40e73c03d5e0f153163ae5b87f0[m
+Author: SLi <senli.1073@gmail.com>
+Date:   Sat Jul 27 20:14:52 2024 +0800
+
+    update pubs
+
+[33mcommit 7f4d4876c6c166ff19038d909dfd054e725a8eb3[m
+Author: SLi <senli.1073@gmail.com>
+Date:   Tue Jul 23 15:52:08 2024 +0800
+
+    update bio
+
+[33mcommit 17d5ed74f985cc5a8033d2cb19165a2ef2868117[m
+Author: SLi <senli.1073@gmail.com>
+Date:   Sun Jun 16 15:58:59 2024 +0800
+
+    update img
+
+[33mcommit 2e2864b0224f267b1ded65fb634371e06c7b1373[m
+Author: SLi <senli.1073@gmail.com>
+Date:   Sun Jun 16 15:19:41 2024 +0800
+
+    update img
+
+[33mcommit c54e8a52cfca315165b21ef91d854a7ba91d3ce5[m
+Author: SLi <senli.1073@gmail.com>
+Date:   Tue Jun 11 15:38:28 2024 +0800
+
+    add github badge
+
+[33mcommit b14592c58cc6d2b090e2ab24737d47db5cb7aadd[m
+Author: SLi <senli.1073@gmail.com>
+Date:   Thu Jun 6 23:40:35 2024 +0800
+
+    add github link
+
+[33mcommit 95f174e567cf8163c56f91c32fc87f8b8195bc8d[m
+Author: SLi <senli.1073@gmail.com>
+Date:   Thu Jun 6 21:42:59 2024 +0800
+
+    update pubs
+
+[33mcommit 608cc2f6ad15d4543a59d328d4a56d0815e26a30[m
+Author: SLi <senli.1073@gmail.com>
+Date:   Tue May 21 20:08:42 2024 +0800
+
+    update img
+
+[33mcommit 489c84e6af8614aa81d301865307a62d3736b4a3[m
+Author: SLi <senli.1073@gmail.com>
+Date:   Tue May 21 16:24:31 2024 +0800
+
+    update pubs
+
+[33mcommit e397165d3bea6e6307dff88f6fb50858d26f50c1[m
+Author: SLi <senli.1073@gmail.com>
+Date:   Tue May 21 16:23:11 2024 +0800
+
+    Modify the position of the avatar
+
+[33mcommit bb56e18918f0a1ce09012cd4d10ff6b518785eda[m
+Author: SLi <senli.1073@gmail.com>
+Date:   Tue May 21 10:01:43 2024 +0800
+
+    update pubs
+
+[33mcommit 5eaac6b6f9d36c4eec50679a26e5ba272dc901c7[m
+Author: SLi <senli.1073@gmail.com>
+Date:   Mon May 20 20:31:37 2024 +0800
+
+    update status
+
+[33mcommit f43fc8b4212afaf91a9877ac6d225bf456c33386[m
+Author: SLi <senli.1073@gmail.com>
+Date:   Fri May 17 20:47:23 2024 +0800
+
+    update pubs
+
+[33mcommit 4665024e005ebc363a387cfeef907f9ee6a70ba4[m
+Author: SLi <senli.1073@gmail.com>
+Date:   Mon Apr 29 10:07:45 2024 +0800
+
+    Update MathJax Configuration Block
+
+[33mcommit 6876b922a52430bb904d50d01e38cb1d634b7d18[m
+Author: SLi <senli.1073@gmail.com>
+Date:   Mon Mar 25 22:20:06 2024 +0800
+
+    update screenshot and introduction
+
+[33mcommit 1944c026f4f35f6a98a43cc5788a1b4e28bceacd[m
+Author: SLi <senli.1073@gmail.com>
+Date:   Mon Mar 4 15:31:20 2024 +0800
+
+    update image
+
+[33mcommit 4fab602eba89cb854ec3874e4981eee7ccc7a3fc[m
+Author: SLi <senli.1073@gmail.com>
+Date:   Fri Mar 1 21:18:33 2024 +0800
+
+    fix bug
+
+[33mcommit fa10898ea946c80803bd825e61b13378f11a83a3[m
+Author: SLi <senli.1073@gmail.com>
+Date:   Fri Mar 1 09:54:42 2024 +0800
+
+    update link
+
+[33mcommit 04531e1ecb9c30f59d211078e6192dd7b684dfdb[m
+Author: SLi <senli.1073@gmail.com>
+Date:   Fri Mar 1 09:52:34 2024 +0800
+
+    update pubs
+
+[33mcommit 7904f1537559f71c7a8e782baa9bc3750f341c99[m
+Author: SLi <senli.1073@gmail.com>
+Date:   Thu Feb 1 11:25:11 2024 +0800
+
+    update title
+
+[33mcommit 7819b7ff6c9b5de04586b86a8b5c8ea19e56daa7[m
+Author: SLi <senli.1073@gmail.com>
+Date:   Sat Oct 21 16:33:51 2023 +0800
+
+    update pubs
+
+[33mcommit 4834db4ddb088d79692f88025a6013e06a1bf71a[m
+Author: SLi <senli.1073@gmail.com>
+Date:   Fri Oct 13 10:12:36 2023 +0800
+
+    update awards
+
+[33mcommit 6569e072da6cbb1ee2abbcb924ae5ea32ea6f569[m
+Author: SLi <senli.1073@gmail.com>
+Date:   Fri Oct 13 10:12:24 2023 +0800
+
+    update awards
+
+[33mcommit c18ae8cb80d860250259e123833a15be1ad644db[m
+Author: SLi <senli.1073@gmail.com>
+Date:   Thu Oct 12 21:57:29 2023 +0800
+
+    update photo
+
+[33mcommit dfd3020ee6837226f38afc0e1f498cd79a91ed5b[m
+Author: SLi <senli.1073@gmail.com>
+Date:   Thu Oct 12 21:55:34 2023 +0800
+
+    update photo
+
+[33mcommit 3e20d08b6cf2d5ab8ccef7702270ef651c33c99f[m
+Author: SLi <senli.1073@gmail.com>
+Date:   Thu Oct 12 19:44:01 2023 +0800
+
+    update info
+
+[33mcommit 38654e3b95984a0cff9a06b33cad449ddda22613[m
+Author: SLi <senli.1073@gmail.com>
+Date:   Wed Oct 11 19:12:49 2023 +0800
+
+    fix bug
+
+[33mcommit 4722063ee2f0c8cfbf446d6aef7679f1e709024e[m
+Author: SLi <senli.1073@gmail.com>
+Date:   Wed Oct 11 17:23:50 2023 +0800
+
+    update info
+
+[33mcommit 978b9c97e5394230bad8e334720f50fabce088ef[m
+Author: senli1073 <senli.1073@gmail.com>
+Date:   Mon Jul 17 17:48:08 2023 +0800
+
+    update readme
+
+[33mcommit ec857b12fcc8a54d424c4b531cf18f1c9738c1a0[m
+Author: senli1073 <senli.1073@gmail.com>
+Date:   Wed Jun 28 20:05:53 2023 +0800
+
+    update readme
+
+[33mcommit b0ddb0f3b40fd9f2d341852207baa8217c2024aa[m
+Author: senli1073 <senli.1073@gmail.com>
+Date:   Sat Jun 24 23:41:09 2023 +0800
+
+    update README
+
+[33mcommit fe6d42139b5f6a32694b0ede24134a78987ac5e7[m
+Author: senli1073 <senli.1073@gmail.com>
+Date:   Wed Jun 21 21:49:30 2023 +0800
+
+    update readme
+
+[33mcommit fa4aa2aefcedce63c860ddc1a2fe11149dc85eb5[m
+Author: senli1073 <senli.1073@gmail.com>
+Date:   Wed Jun 21 19:32:21 2023 +0800
+
+    new link
+
+[33mcommit 0b3812751bda5bfa94533245cb212db2b10aa02f[m
+Author: senli1073 <senli.1073@gmail.com>
+Date:   Wed Jun 21 19:10:24 2023 +0800
+
+    new img
+
+[33mcommit 5f2b25238763e9c907ba2fceb41346b7a0c1787d[m
+Author: senli1073 <senli.1073@gmail.com>
+Date:   Wed Jun 21 19:06:57 2023 +0800
+
+    tmp
+
+[33mcommit 4560b68ab50913ac6ccd49f6099b21e79d117848[m
+Author: senli1073 <senli.1073@gmail.com>
+Date:   Wed Jun 21 19:05:19 2023 +0800
+
+    new img
+
+[33mcommit 9d54be0333504f14c3983afac48834bfa9f8e81e[m
+Author: senli1073 <senli.1073@gmail.com>
+Date:   Wed Jun 21 18:56:02 2023 +0800
+
+    new link
+
+[33mcommit a5fdde7533b736677a5004d8d77dfa4c57f96ad4[m
+Author: senli1073 <senli.1073@gmail.com>
+Date:   Wed Jun 21 18:53:43 2023 +0800
+
+    new screenshot
+
+[33mcommit 79e42e27226c47cb90d689ad857cc22935cac426[m
+Author: senli1073 <senli.1073@gmail.com>
+Date:   Wed Jun 21 18:51:49 2023 +0800
+
+    readme
+
+[33mcommit f93f47c295d4f1e776233154fd917587e4e3ef84[m
+Author: senli1073 <senli.1073@gmail.com>
+Date:   Wed Jun 21 18:46:02 2023 +0800
+
+    demo
+
+[33mcommit 9fec6caf79dbaf60386faf78cd0b935a060404d9[m
+Author: senli1073 <senli.1073@gmail.com>
+Date:   Wed Jun 21 18:43:29 2023 +0800
+
+    update readme
+
+[33mcommit 53d15911d423d73f5938c7d26f124266b2a727b6[m
+Author: senli1073 <senli.1073@gmail.com>
+Date:   Wed Jun 21 17:01:37 2023 +0800
+
+    update readme
+
+[33mcommit 658183a8f8ced00e340c45e71428ed22cbe35763[m
+Author: senli1073 <senli.1073@gmail.com>
+Date:   Wed Jun 21 15:22:49 2023 +0800
+
+    update readme
+
+[33mcommit e336d844b51d14fa941a696e3fbc20995513bd90[m
+Author: senli1073 <senli.1073@gmail.com>
+Date:   Wed Jun 21 15:20:54 2023 +0800
+
+    add readme
+
+[33mcommit 836e15b3690ba61a1caa9c3c2123f0f34716c850[m
+Author: senli1073 <senli.1073@gmail.com>
+Date:   Wed Jun 21 14:05:17 2023 +0800
+
+    first commit
+
+[33mcommit ac70a3655335793d87f73af3aac24802a80fba3a[m
+Author: LS <senli.1073@gmail.com>
+Date:   Wed Jun 21 13:58:18 2023 +0800
+
+    Initial commit
